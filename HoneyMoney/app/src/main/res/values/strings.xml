@@ -1,0 +1,20 @@
+<resources>
+
+    <string name="app_name">HoneyMoney</string>
+    <string name="name_authorization_fragment">Authorization Fragment</string>
+    <string name="name_sync_fragment">Sync Fragment</string>
+    <string name="name_import_fragment">Import Fragment</string>
+    <string name="name_export_fragment">Export Fragment</string>
+    <string name="name_settings_fragment">Settings Fragment</string>
+    <string name="drawer_open">Open drawer</string>
+    <string name="drawer_close">Close drawer</string>
+
+    <string-array name="titles">
+        <item>Авторизация</item>
+        <item>Синхронизация</item>
+        <item>Импорт</item>
+        <item>Экспорт</item>
+        <item>Настройки</item>
+    </string-array>
+
+</resources>
